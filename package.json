@@ -29,7 +29,7 @@
     "consign": "^0.1.6",
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
-    "jsonwebtoken": "^8.1.0",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^4.13.5"
   },
   "devDependencies": {
